@@ -52,6 +52,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "17arindam",
+      "name": "Arindam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65901047?v=4",
+      "profile": "https://github.com/17arindam",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -59,5 +68,5 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "awesome-github-profiles",
-  "projectOwner": "recodehive"
+  "projectOwner": "nishant0708"
 }
